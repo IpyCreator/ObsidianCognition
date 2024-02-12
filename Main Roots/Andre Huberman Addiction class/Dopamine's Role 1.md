@@ -1,0 +1,1 @@
+There's a circular diagram showing that addiction urges involve dopamine, leading to the feeling of pleasure, which in turn may lead to a depletion of dopamine after pursuing the addiction.

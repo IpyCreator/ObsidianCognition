@@ -1,0 +1,11 @@
+Simply noticing what is occupying our attentional space has been shown to make us more productive. One study asked participants to read a detective novel and try to solve the crime. It compared readers whose minds wandered without awareness with those whose minds wandered consciously. Solve rates were substantially higher for the group that was aware that their minds had wandered. We perform significantly better on every task when we’re aware that our mind is wandering.
+
+If you pay attention to what’s on your mind—which is admittedly hard to do for more than a minute or so—you’ll notice that the content of your attentional space is constantly changing. You’ll understand that it truly is a scratch pad, with thoughts, tasks, conversations, projects, daydreams, conference calls, and other objects of attention continually passing through. You’ll also find that your attentional space expands and shrinks depending on your mood. Objects of attention fade from this space just as quickly as they came—usually without your awareness. For all the power it provides, the content of your attentional space is ephemeral; its memory
+
+  
+
+Habitual tasks like cutting your nails, doing the laundry, archiving emails you’ve already read, and grocery shopping don’t require nearly as much attention as more complex tasks. This makes it possible to multitask without compromising the quality of your actions. Every Sunday I like to lump my personal, relatively rote “maintenance tasks” together—tasks that help me maintain who I am, like preparing meals, trimming my nails, and cleaning the house—and do them all in an allotted period of time while listening to podcasts or an audiobook. It’s easily one of my favorite weekly rituals. You can do the same, for example, on your daily commute: if you listen to an audiobook during that routine, hourlong trip, you’ll be able to read an extra book each week by utilizing the attention freed by a habitual task.
+
+  
+
+Ultimately the point is this: the number of habitual tasks we can fit into our attentional space is much higher than the number of demanding ones.

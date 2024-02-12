@@ -1,0 +1,3 @@
+Clarity is not the result of verbal assertion but of intense self-awareness and right thinking. Right thinking is not the outcome of mere cultivation of the intellect, nor is it conformity to pattern, however worthy and noble. Right thinking comes with self-knowledge. Without understanding yourself, you have no basis for thought; without self-knowledge, what you think is not true.
+
+To cultivate the right instrument of perception, thought must cease to condemn, to deny, to compare and judge, or to seek comfort and security.

@@ -1,0 +1,50 @@
+- [ ]
+- [x] Stick
+- [x] Tripod
+- [x] Umbrella
+- [x] Rain coat
+- [x] Water bottle
+- [x] Med pack
+- [x] Cash
+- [x] Checkbook
+- [x] Soft copy document
+- [x] Ids all
+- [x] Atm cards all
+- [x] Power bank
+- [x] All cables
+- [x] Bags
+- [x] Towel
+- [x] Tooth brush
+- [x] Comb
+- [x] Travel clothes
+    - [x] Half shorts
+    - [x] T shirt
+    - [x] Mosquito cream
+- [x] Sunscream
+- [x] Saurabh undies
+- [x] Googles lina
+- [x] Googles saurabh
+- [x] Hat
+- [x] Chappal
+- [x] Small towel
+- [x] Hand wash
+- [x] Shampoo
+- [x] Body wash
+- [x] Body lotion
+- [x] Roll on
+- [x] Makeup
+- [x] Stoll
+- [x] M-cet 4
+- [x] Glucond
+- [x] Choclate sneaker
+- [x] Watch
+- [x] Mask
+- [x] Tissue
+- [x] Face wipes
+- [x] Sanitizer
+- [x] Nail cutter
+- [x] Andaman offline map
+- [x] Paper print of all tickets
+- [x] Bsnl sim
+- [ ]
+- [ ]

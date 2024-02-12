@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "994fd5441d4d2ed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5c2eb828bfe4251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55f3cd615aa0c04a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "249e4d5b74cb8048",
+    "type": "split",
+    "children": [
+      {
+        "id": "81618c386e0c2fc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37bb92a357f49e4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e14b0ec35a5bbfc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cbd813460fc70bf0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "245a52a65ef3153e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe798b48230260cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "108353851723ea42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63a21293d3a604b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2df36b75c34db270",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54b1544f7e328b69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "240e7b6c43078376",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-import-json:JSON/CSV Importer": false
+    }
+  },
+  "active": "55f3cd615aa0c04a",
+  "lastOpenFiles": [
+    "2024-02-13.md",
+    "Tasks Plugin - Review and check your Statuses 2024-02-13 01-27-46.md",
+    "Untitled.canvas",
+    "Journal/Running Started.md",
+    "Journal/One thing is same.md",
+    "Journal/Daily reflection.md",
+    "Emacs/Emacs.md",
+    "Competitive Programming/Competitive Programming.md",
+    "Hyperfocus.md",
+    "AC Purchasing guide.md",
+    "_22swisher-articleLarge.jpg",
+    "Competitive Programming/Arrays/Arrays.md",
+    "App architecture/Coordinator design pattern/Coordinator design pattern.md",
+    "App architecture/Coordinator design pattern/Xcworkspace removel/Xcworkspace removel.md",
+    "_FEDDC884-431C-4A22-8A0B-CDE0B584E359.jpeg",
+    "_image.jpg",
+    "Daily Check-in Template (Skillshare Linked)/7 Jul 2021- DifferentDream/Copy of 4 Jul 2021/Copy of 28 June 2021/Copy of 27 Jun 2021/Untitled.md",
+    "Daily Check-in Template (Skillshare Linked)/4 Jul 2021/Copy of 28 June 2021/Copy of 27 Jun 2021/Untitled.md",
+    "Daily Check-in Template (Skillshare Linked)/7 Jul 2021- DifferentDream/Copy of 28 June 2021/Copy of 27 Jun 2021/Untitled.md",
+    "_Copy of 27 Jun 2021 d2d8698662d741e2a285066ff558e17d",
+    "Daily Check-in Template (Skillshare Linked)/7 Jul 2021- DifferentDream/Copy of 4 Jul 2021/Copy of 28 June 2021/Copy of 27 Jun 2021/Copy of 27 Jun 2021.md",
+    "Daily Check-in Template (Skillshare Linked)/7 Jul 2021- DifferentDream/Copy of 4 Jul 2021/Copy of 28 June 2021/Copy of 25 June 2021.md",
+    "Daily Check-in Template (Skillshare Linked)/7 Jul 2021- DifferentDream/Copy of 4 Jul 2021/Copy of 28 June 2021/Copy of 26 June 2021.md",
+    "Daily Check-in Template (Skillshare Linked)/4 Jul 2021/Copy of 28 June 2021/Copy of 26 June 2021.md",
+    "_Copy of 27 Jun 2021 20c67df72b7a4509800917bf01ad175f",
+    "Daily Check-in Template (Skillshare Linked)/4 Jul 2021/Copy of 28 June 2021/Copy of 25 June 2021.md",
+    "Daily Check-in Template (Skillshare Linked)/4 Jul 2021/Copy of 28 June 2021/Copy of 27 Jun 2021/Copy of 27 Jun 2021.md",
+    "_Copy of 27 Jun 2021 5742748ee6334b3a8c2bae0528698607",
+    "Daily Check-in Template (Skillshare Linked)/7 Jul 2021- DifferentDream/Copy of 28 June 2021/Copy of 25 June 2021.md",
+    "Daily Check-in Template (Skillshare Linked)/7 Jul 2021- DifferentDream/Copy of 28 June 2021/Copy of 27 Jun 2021/Copy of 27 Jun 2021.md",
+    "Daily Check-in Template (Skillshare Linked)/7 Jul 2021- DifferentDream/Copy of 28 June 2021/Copy of 26 June 2021.md",
+    "Daily Check-in Template (Skillshare Linked)/7 Jul 2021- DifferentDream/Copy of 4 Jul 2021/Copy of 25 June 2021.md",
+    "Daily Check-in Template (Skillshare Linked)/7 Jul 2021- DifferentDream/Copy of 4 Jul 2021/Copy of 28 June 2021/Copy of 28 June 2021.md",
+    "_Copy of 28 June 2021 af7a726610e042f89b573df2e7df5e2e",
+    "_merlin_154479453_cb026b47-68c6-4d04-b207-8cefa72b9648-articleLarge.jpg",
+    "merlin_154479453_cb026b47-68c6-4d04-b207-8cefa72b9648-articleLarge.jpg",
+    "_Untitled.png",
+    "Untitled.png",
+    "22swisher-articleLarge.jpg",
+    "_GeneralMagicSiliconValleyPremiere_StandingOvation_Credit_MattMaude.png",
+    "GeneralMagicSiliconValleyPremiere_StandingOvation_Credit_MattMaude.png",
+    "_Copy of 28 June 2021 ec2ba5f2c1a540dbbf831ef5a0f0ba14",
+    "_Copy of 28 June 2021 bda74a0dd92547f7b4b3b92b2cca6cf3",
+    "_Copy of 4 Jul 2021 5c957ab1938546cf937bb5e559556910",
+    "_Copy of 27 Jun 2021 25033180a9674488b9f873a651d6e4ad",
+    "_Resources.pdf",
+    "Resources.pdf"
+  ]
+}
