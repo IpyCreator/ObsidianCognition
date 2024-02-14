@@ -8,19 +8,98 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c9201792c4addb9",
+            "id": "079b1ee9bad88650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-13.md",
+                "file": "Meditation/Meditation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c955b27519fca4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JK Transformation of a Man/Fragments/Fleeting Note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2513bc3392875523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JK Transformation of a Man/Fragments/Literature.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80efd1a8aa925ce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38d224f30abcf96e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Positive Thinking/1.Meet the Most Important Person/Fleeting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "963fbc65df0bbb3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Positive Thinking/1.Meet the Most Important Person/Fleeting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "848bae3f58cf192b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JK Transformation of a Man/Fragments/Permanent Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -70,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "right": {
     "id": "0a4ccc7179089952",
@@ -86,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-13.md",
+                "file": "JK Transformation of a Man/Fragments/Permanent Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-13.md",
+                "file": "JK Transformation of a Man/Fragments/Permanent Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-13.md"
+                "file": "JK Transformation of a Man/Fragments/Permanent Note.md"
               }
             }
           }
@@ -148,9 +227,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1c9201792c4addb9",
+  "active": "848bae3f58cf192b",
   "lastOpenFiles": [
+    "JK Transformation of a Man/Fragments/Literature.md",
+    "JK Transformation of a Man/Fragments/Fleeting Note.md",
+    "Positive Thinking/1.Meet the Most Important Person/Permanent.md",
+    "PMA ^.md",
+    "Positive Thinking/1.Meet the Most Important Person/Fleeting.md",
+    "Positive Thinking/1.Meet the Most Important Person/Literature.md",
+    "2024-02-14.md",
     "Positive Thinking/Preface/Fleeting Note.md",
+    "JK Transformation of a Man/Fragments/Permanent Note.md",
+    "JK Transformation of a Man/Fragments",
+    "Meditation/Meditation.md",
+    "JK Transformation of a Man",
+    "2024-02-13.md",
+    "Meditation",
     "Positive Thinking/Preface/Literature Note.md",
     "Positive Thinking/Preface/Permanent Note.md",
     "Main Roots/Idea heights/Experiment with observer.md",
@@ -166,17 +258,7 @@
     "Main Roots/Beauty routine.md",
     "Main Roots/Concurrency.md",
     "Main Roots/Es dhammo santanto.md",
-    "Main Roots/Ds.md",
-    "Main Roots/That one thing.md",
     "Main Roots/Untitled.canvas",
-    "Main Roots/Untitled.md",
-    "Main Roots/Weight Loss.md",
-    "Main Roots/Xcode Tools and techniques.md",
-    "2024-02-13.md",
-    "README.md",
-    "Main Roots/Tasks Plugin - Review and check your Statuses 2024-02-13 01-27-46.md",
-    "Main Roots/Swift Links for learning.md",
-    "Main Roots/Personal Secrets.md",
     "Positive Thinking/Preface/DALL·E 2024-02-14 00.16.18 - A panoramic landscape image of a dragon integrated with futuristic machinery, designed for protection, set against a majestic backdrop. This scene com.webp",
     "Positive Thinking/Preface/DALL·E 2024-02-14 00.09.45 - An inspiring and serene image depicting the concept of 'Success through A Positive Mental Attitude'. In the foreground, a sitting Buddha statue, symbo.webp",
     "Positive Thinking/1.Meet the Most Important Person",
