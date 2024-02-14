@@ -144,11 +144,44 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "1c9201792c4addb9",
   "lastOpenFiles": [
-    "2024-02-13.md"
+    "Positive Thinking/Preface/Fleeting Note.md",
+    "Positive Thinking/Preface/Literature Note.md",
+    "Positive Thinking/Preface/Permanent Note.md",
+    "Main Roots/Idea heights/Experiment with observer.md",
+    "Main Roots/Idea heights/Idea heights.md",
+    "Main Roots/Idea heights/Searching for journaling solutions.md",
+    "Main Roots/Important Links/Important Links.md",
+    "Main Roots/Important Links/Topics to read.md",
+    "Main Roots/2024-02-13.md",
+    "Main Roots/2024-02-13 1.md",
+    "Main Roots/AC Purchasing guide.md",
+    "Main Roots/ACIM.md",
+    "Main Roots/Andaman.md",
+    "Main Roots/Beauty routine.md",
+    "Main Roots/Concurrency.md",
+    "Main Roots/Es dhammo santanto.md",
+    "Main Roots/Ds.md",
+    "Main Roots/That one thing.md",
+    "Main Roots/Untitled.canvas",
+    "Main Roots/Untitled.md",
+    "Main Roots/Weight Loss.md",
+    "Main Roots/Xcode Tools and techniques.md",
+    "2024-02-13.md",
+    "README.md",
+    "Main Roots/Tasks Plugin - Review and check your Statuses 2024-02-13 01-27-46.md",
+    "Main Roots/Swift Links for learning.md",
+    "Main Roots/Personal Secrets.md",
+    "Positive Thinking/Preface/DALL·E 2024-02-14 00.16.18 - A panoramic landscape image of a dragon integrated with futuristic machinery, designed for protection, set against a majestic backdrop. This scene com.webp",
+    "Positive Thinking/Preface/DALL·E 2024-02-14 00.09.45 - An inspiring and serene image depicting the concept of 'Success through A Positive Mental Attitude'. In the foreground, a sitting Buddha statue, symbo.webp",
+    "Positive Thinking/1.Meet the Most Important Person",
+    "Positive Thinking/Preface",
+    "Positive Thinking",
+    "Daily Notes"
   ]
 }

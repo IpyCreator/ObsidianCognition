@@ -1,0 +1,4 @@
+
+What I understood is a book can help only If I am taking actions and not passively accepting the ideas instead questioning the idea represented in the book. Napolean helped many peopled through out his life and though experience of 20 years working with top people and 2 former presidents he understood the behaviour and blue print for the success in this material world.
+The most powerfull computer is human brain and this is what is written in preface of this book. 
+I have huge expectations from this book because I have very negative mindset and I will aply everything that napolean will tell me to do for now he is my GURU 
