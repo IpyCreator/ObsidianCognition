@@ -1,21 +1,20 @@
 {
   "main": {
-    "id": "363a364f5a5f2fb2",
+    "id": "e09276f8c978de06",
     "type": "split",
     "children": [
       {
-        "id": "f50b2f66176ff4bd",
+        "id": "4b2c50ba66a141c4",
         "type": "tabs",
         "children": [
           {
-            "id": "691aa116ffcf08de",
+            "id": "ea6b474867546295",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JIM KWICK LIMITLESS/Part 1.md",
+                "file": "MR Practises.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -26,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a231d73788db0b6c",
+    "id": "e5668be747aadf3f",
     "type": "split",
     "children": [
       {
-        "id": "0f52da1189d607d8",
+        "id": "aea9baef19e51e19",
         "type": "tabs",
         "children": [
           {
-            "id": "6aba505e662ee5f6",
+            "id": "bdf8d0a22b74036f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +43,7 @@
             }
           },
           {
-            "id": "bf9a4c09813f057d",
+            "id": "ae1d711c86fbef2c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +58,7 @@
             }
           },
           {
-            "id": "2958d1b99a3e6c36",
+            "id": "630ecf0ae0cfe46f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 300
   },
   "right": {
-    "id": "0a4ccc7179089952",
+    "id": "d1237a7406c38b5a",
     "type": "split",
     "children": [
       {
-        "id": "d04c8ccd80702c73",
+        "id": "536f10f18ca43a03",
         "type": "tabs",
         "children": [
           {
-            "id": "6e12b5518759b4b4",
+            "id": "4ba4f47cc8b6f22b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JIM KWICK LIMITLESS/Part 1.md",
+                "file": "MR Practises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +97,19 @@
             }
           },
           {
-            "id": "2385aa150110d4f0",
+            "id": "c0844eff5fcb4c09",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JIM KWICK LIMITLESS/Part 1.md",
+                "file": "MR Practises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "98083c83c19faecd",
+            "id": "51bf6d23e28e2448",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,12 +120,12 @@
             }
           },
           {
-            "id": "89ae9c77860c76b6",
+            "id": "1001acd1e36016a0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "JIM KWICK LIMITLESS/Part 1.md"
+                "file": "MR Practises.md"
               }
             }
           }
@@ -144,50 +143,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "691aa116ffcf08de",
+  "active": "ea6b474867546295",
   "lastOpenFiles": [
-    "Untitled.md",
-    "JIM KWICK LIMITLESS/Part 1.md",
-    "Carrier path.md",
-    "JIM KWICK LIMITLESS",
-    "A sense of destiny.md",
-    "2024-03-30.md",
-    "2024-04-11.md",
-    "Work and Purpose/Tha Pathless path Paul Millerd.md",
-    "Work and Purpose",
-    "Main Roots/Andrew and Robert greene/The  Mastery.md",
-    "Carl Jung",
-    "JK Transformation of a Man/The Attention and Meditation.md",
-    "2024-02-16.md",
-    "2024-02-14.md",
-    "2024-03-28.md",
-    "JK Transformation of a Man/Fragments/Permanent Note.md",
-    "JK Transformation of a Man/Fragments/Literature.md",
-    "JK Transformation of a Man/Fragments/Fleeting Note.md",
-    "2024-03-22.md",
-    "Office Vault/MR Practises.md",
-    "2024-02-21.md",
-    "Main Roots/Atomic habit/Atomic habit.md",
-    "Main Roots/Andre Huberman Addiction class/Relapse and Recovery 1.md",
-    "Main Roots/Andre Huberman Addiction class/Main Page 1.md",
-    "Main Roots/Andre Huberman Addiction class/Dopamine's Role 1.md",
-    "Main Roots/Andre Huberman Addiction class/Dopamine Nation 1.md",
-    "Main Roots/Andre Huberman Addiction class/Addiction_Relapse_Dopamine_Peptides 1.md",
-    "Main Roots/Swift Links for learning.md",
-    "Main Roots/Swift Revisions/Swift Revisions.md",
-    "Main Roots/Andrew and Robert greene",
-    "Office Vault",
-    "Positive Thinking/Preface/DALL·E 2024-02-14 00.16.18 - A panoramic landscape image of a dragon integrated with futuristic machinery, designed for protection, set against a majestic backdrop. This scene com.webp",
-    "Positive Thinking/Preface/DALL·E 2024-02-14 00.09.45 - An inspiring and serene image depicting the concept of 'Success through A Positive Mental Attitude'. In the foreground, a sitting Buddha statue, symbo.webp",
-    "Positive Thinking/Preface",
-    "Positive Thinking/1.Meet the Most Important Person",
-    "Positive Thinking",
-    "Meditation",
-    "JK Transformation of a Man/Fragments",
-    "Main Roots/Untitled.canvas"
+    "MR Practises.md"
   ]
 }

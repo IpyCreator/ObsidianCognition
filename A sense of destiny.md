@@ -1,0 +1,9 @@
+
+Lets talk about the sense of destiny, If I look into myself and a sense of destiny and for which I am born and what are the signals that I got form my child hood. 
+I have to review them carefully lets review it
+- Always exploring and a story teller 
+- Imagination was my major part, I was imaging too much reason may be anything but I will focus on imagination part only. I imagined on many things but my main purpose when I was child I think about the being a scientist and researcher. I was a having a image of being a researcher and scientist who is inventing things. My father told me that scientist are the people who research and make things and people whom I admire most are the scientists, I thin why I overthink is the blueprint that is embedded in me in my child hood and I followed that thing later in life. Later I wanted to become the pilot because hard things always attracted me because of the depth part to it I like things that are having a depth of certain kind. 
+- I took computer science as an carrier it fscinated me because of its depth how things wroks and 1st thing that i remeber was a book called Let us c and network programming I was very fascinated about it how this network and OS works. that lead me to learn C and then I started my carrier 
+- I am very good at explaining things using stories and clear explanations of the compelx topics. I think I am very good teacher. 
+
+`If I see what is my destiny and what are the signs for it are depth of doing things, I dont want to do and go into inner self exploration for my carrier because it is the thing that will give bread and butter plus peace and that is programming I think programming as a part of thinking and creating things so I will go into computer science for the my destiny and I think I wil carve someting from it its very clear now what I want to do in my life and that is scientist in computer science.`
