@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JIM KWICK LIMITLESS/Part 1.md",
+                "file": "ANDROID WORLD/Gradle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JIM KWICK LIMITLESS/Part 1.md",
+                "file": "ANDROID WORLD/Gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JIM KWICK LIMITLESS/Part 1.md",
+                "file": "ANDROID WORLD/Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JIM KWICK LIMITLESS/Part 1.md"
+                "file": "ANDROID WORLD/Gradle.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,9 +151,34 @@
   },
   "active": "691aa116ffcf08de",
   "lastOpenFiles": [
-    "Untitled.md",
-    "JIM KWICK LIMITLESS/Part 1.md",
+    "Gradle Mastery-roadmap.jpg",
+    "MathMatics/Maths for programming language.md",
+    "ANDROID WORLD/Gradle.md",
+    "Mathematics for creating Programming Language-roadmap.jpg",
+    "MathMatics/Maths for DSA.md",
+    "Mathematics for Data Structure-roadmap.jpg",
+    "Mathematics for Computer Science-roadmap 1.jpg",
+    "MathMatics/Maths for Computer science.md",
+    "Mathematics for Computer Science-roadmap.jpg",
+    "MathMatics/Path.md",
+    "Mathematics Mastery-roadmap.jpg",
+    "Android KMM (Kotlin Multiplatform Mobile)-roadmap.jpg",
+    "MathMatics",
+    "Creating Programming Language-roadmap.jpg",
+    "README.md",
     "Carrier path.md",
+    "Jetpack Compose Mastery-roadmap.jpg",
+    "Programming Language Design Path/Programming language Guide.md",
+    "ANDROID WORLD/KMM.md",
+    "Programming Language Design Path",
+    "ANDROID WORLD/Jetpack Compose Roadmap.md",
+    "ANDROID WORLD/KOTLIN ROADMAP.md",
+    "Main Roots/Important Links/Links related to Path of learning.md",
+    "Main Roots/Important Links/Important Links.md",
+    "Main Roots/Important Links/Topics to read.md",
+    "JIM KWICK LIMITLESS/Part 1.md",
+    "ANDROID WORLD",
+    "Untitled.md",
     "JIM KWICK LIMITLESS",
     "A sense of destiny.md",
     "2024-03-30.md",
@@ -165,29 +191,12 @@
     "2024-02-16.md",
     "2024-02-14.md",
     "2024-03-28.md",
-    "JK Transformation of a Man/Fragments/Permanent Note.md",
-    "JK Transformation of a Man/Fragments/Literature.md",
-    "JK Transformation of a Man/Fragments/Fleeting Note.md",
-    "2024-03-22.md",
-    "Office Vault/MR Practises.md",
-    "2024-02-21.md",
-    "Main Roots/Atomic habit/Atomic habit.md",
-    "Main Roots/Andre Huberman Addiction class/Relapse and Recovery 1.md",
-    "Main Roots/Andre Huberman Addiction class/Main Page 1.md",
-    "Main Roots/Andre Huberman Addiction class/Dopamine's Role 1.md",
-    "Main Roots/Andre Huberman Addiction class/Dopamine Nation 1.md",
-    "Main Roots/Andre Huberman Addiction class/Addiction_Relapse_Dopamine_Peptides 1.md",
-    "Main Roots/Swift Links for learning.md",
-    "Main Roots/Swift Revisions/Swift Revisions.md",
     "Main Roots/Andrew and Robert greene",
     "Office Vault",
     "Positive Thinking/Preface/DALL·E 2024-02-14 00.16.18 - A panoramic landscape image of a dragon integrated with futuristic machinery, designed for protection, set against a majestic backdrop. This scene com.webp",
     "Positive Thinking/Preface/DALL·E 2024-02-14 00.09.45 - An inspiring and serene image depicting the concept of 'Success through A Positive Mental Attitude'. In the foreground, a sitting Buddha statue, symbo.webp",
     "Positive Thinking/Preface",
     "Positive Thinking/1.Meet the Most Important Person",
-    "Positive Thinking",
-    "Meditation",
-    "JK Transformation of a Man/Fragments",
     "Main Roots/Untitled.canvas"
   ]
 }

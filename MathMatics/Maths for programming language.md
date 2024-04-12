@@ -1,0 +1,1 @@
+![[Mathematics for creating Programming Language-roadmap.jpg]]
