@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANDROID WORLD/Gradle.md",
+                "file": "JIM KWICK LIMITLESS/Part 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c49cb2aac416177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JIM KWICK LIMITLESS/Part 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANDROID WORLD/Gradle.md",
+                "file": "JIM KWICK LIMITLESS/Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANDROID WORLD/Gradle.md",
+                "file": "JIM KWICK LIMITLESS/Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANDROID WORLD/Gradle.md"
+                "file": "JIM KWICK LIMITLESS/Part 1.md"
               }
             }
           }
@@ -149,11 +163,27 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "691aa116ffcf08de",
+  "active": "6c49cb2aac416177",
   "lastOpenFiles": [
+    "REVIEW.md",
+    "JIM KWICK LIMITLESS/Part 1.md",
+    "Screenshot 2024-04-15 at 10.18.37 PM.png",
+    "A GOOD BRAIN DIET.md",
+    "Answer to PURPOSE.md",
+    "MOTIVATION.md",
+    "Answer 2.md",
+    "Answer.md",
+    "2024-04-12.md",
+    "Main Roots/Competitive Programming/Backtracking.md",
+    "Main Roots/Competitive Programming/AVL Tree.md",
+    "Main Roots/Competitive Programming/Abstract Data Types (ADT's).md",
+    "Main Roots/Competitive Programming/Arrays/Arrays.md",
+    "ANDROID WORLD/Gradle.md",
+    "ANDROID WORLD/KMM.md",
+    "ANDROID WORLD/Jetpack Compose Roadmap.md",
+    "ANDROID WORLD/KOTLIN ROADMAP.md",
     "Gradle Mastery-roadmap.jpg",
     "MathMatics/Maths for programming language.md",
-    "ANDROID WORLD/Gradle.md",
     "Mathematics for creating Programming Language-roadmap.jpg",
     "MathMatics/Maths for DSA.md",
     "Mathematics for Data Structure-roadmap.jpg",
@@ -169,32 +199,16 @@
     "Carrier path.md",
     "Jetpack Compose Mastery-roadmap.jpg",
     "Programming Language Design Path/Programming language Guide.md",
-    "ANDROID WORLD/KMM.md",
     "Programming Language Design Path",
-    "ANDROID WORLD/Jetpack Compose Roadmap.md",
-    "ANDROID WORLD/KOTLIN ROADMAP.md",
     "Main Roots/Important Links/Links related to Path of learning.md",
     "Main Roots/Important Links/Important Links.md",
     "Main Roots/Important Links/Topics to read.md",
-    "JIM KWICK LIMITLESS/Part 1.md",
     "ANDROID WORLD",
-    "Untitled.md",
     "JIM KWICK LIMITLESS",
-    "A sense of destiny.md",
-    "2024-03-30.md",
-    "2024-04-11.md",
-    "Work and Purpose/Tha Pathless path Paul Millerd.md",
     "Work and Purpose",
-    "Main Roots/Andrew and Robert greene/The  Mastery.md",
     "Carl Jung",
-    "JK Transformation of a Man/The Attention and Meditation.md",
-    "2024-02-16.md",
-    "2024-02-14.md",
-    "2024-03-28.md",
     "Main Roots/Andrew and Robert greene",
     "Office Vault",
-    "Positive Thinking/Preface/DALL·E 2024-02-14 00.16.18 - A panoramic landscape image of a dragon integrated with futuristic machinery, designed for protection, set against a majestic backdrop. This scene com.webp",
-    "Positive Thinking/Preface/DALL·E 2024-02-14 00.09.45 - An inspiring and serene image depicting the concept of 'Success through A Positive Mental Attitude'. In the foreground, a sitting Buddha statue, symbo.webp",
     "Positive Thinking/Preface",
     "Positive Thinking/1.Meet the Most Important Person",
     "Main Roots/Untitled.canvas"

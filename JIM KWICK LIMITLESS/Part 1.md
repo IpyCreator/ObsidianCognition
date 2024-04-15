@@ -137,6 +137,275 @@ Reimagine your inner critic. Change the attributes of this voice in your head so
 
 
 Chapter 6: The 7 lies of learning 
+1. Intelligence is fixed: I have the same belief 
+“In a fixed mindset, students believe their basic abilities, their intelligence, their talents, are just fixed traits. They have a certain amount and that’s that, and then their goal becomes to look smart all the time and never look dumb. In a growth mindset, students understand that their talents and abilities can be developed through effort, good teaching and persistence. They don’t necessarily think everyone’s the same or anyone can be Einstein, but they believe everyone can get smarter if they work at it”
+
+“This shift in language can be applied to anything you want to improve.”
+
+“Test scores do not determine your future. They don’t determine what you’re capable of learning and accomplishing. Take your education into your own hands.”
+
+“Here’s the truth: It’s not how smart you are; it’s how you are smart. There are multiple types of intelligence (more on this later). Like so many things, intelligence is a combination of attitudes and actions, and is dependent on context.
+New belief: Intelligence is fluid.”
+2. We only Use 10 percent of our brain : Same belief 
+3. Mistakes are failures : Understood 
+4. Information is power : Understood 
+5. Learning new things are difficult : Same beleif
+6. Genius is Born : Same belief 
+7. Other criticism : Understood 
+
+# Questions 
+1. Take a good look at some of the mistakes you’ve made. Have you let these define you? How have your feelings about these mistakes changed after reading this chapter?
+	[[Answer]]
+1. Find a way to put something you’ve recently learned (even today) into action. Notice the difference it makes when you turn knowledge into power.
+	[[Answer 2]]
+   
+1. Think about a situation where you allowed the opinions of others to sway your actions. How would you approach that same situation differently if the only opinion that mattered was yours? Get my 4Gs to a limitless mindset, including more strategies for replacing limited beliefs
+
+
+# Part 2 
+[[MOTIVATION]]
+
+it’s a strategy, you have control over it and can create it consistently by following the right recipe.
+Here’s the formula: Motivation = Purpose × Energy × S3 (SMALL SIMLE STEPS)
+
+`
+`Reasons reaps results
+
+Lack of sleep dis-array everything in life
+Lack of sleep called the sleep apnea 
+
+For Achieving goals, Follow this 
+SMART+HEART
+#SMART
+**S is for Specific:** Your goal should be well defined. Don’t say you want to be rich; say you want to make a certain amount of money.
+**M is for Measurable:** If you can’t measure your goal, you can’t manage it. Getting fit isn’t measurable—running a six-minute mile is.
+**A is for Actionable:** You wouldn’t drive to a new town without asking for directions. Develop the action steps to achieve your goal.
+**R is for Realistic:** If you’re living in your parents’ basement, it’s hard to become a millionaire. Your goals should challenge and stretch you, but not so much that you give up on them.
+**T is for Time-based:** The phrase, “A goal is a dream with a deadline” comes to mind. Setting a time to complete your goal makes you that much more likely to reach it.
+
+#HEART
+**H is for Healthy:** How can you make sure your goals support your greater well-being? Your goals should contribute to your mental, physical, and emotional health.
+**E is for Enduring:** Your goals should inspire and sustain you during the difficult times when you want to quit.
+**A is for Alluring or Attractive:** You shouldn’t always have to push yourself to work on your goals. They should be so exciting, enticing, and engaging that you’re pulled toward them.
+**R is for Relevant or Real:** Don’t set a goal without knowing why you’re setting it. Ideally, your goals should relate to a challenge you’re having, your life’s purpose, or your core values.
+**T is for Truth:** Don’t set a goal just because your neighbor is doing it or your parents expect it of you. Make sure your goal is something you want, something that remains true to you. If your goal isn’t true to you, you’re far more likely to procrastinate and sabotage yourself.
+
+A question to ask what is the purpose of Life 
+[[Answer to PURPOSE]]
+
+The IAM 
+I am disaggreing with the author here becasue he dont have any idea of Who I am, He denoted very small passages on this part and only wrote few things like just replace who you think you are. 
+This shows the shallow ness of the author and his direction towards the life I understand he wants to teach the world about learning but exploring self is real learning and limitless achievement one can make. Completely disagreeing on this topic 
+
+#Reasons
+#LossingandFear
+
+## CHAPTER 8: ENERGY 
+10 Recommendations on energy 
+1.[[ A GOOD BRAIN DIET]]
+     
+the story of sleep and why it is important 
+the distraction and effect of procrastination and remember when we are disturbed 
+The procrastination reason 
+THE HABIT LOOP 
+CUE 
+CRAVING 
+RESONCE 
+REWARD 
+
+The Fogg factors of forming habit 
+THE MOTIVATION 
+THE ABILITY AND SIMPICITY
+PROMPTS 
+	1. SPARK 
+	2. MOTIVATION WITH LOW ABILITY 
+	3. MOTIVATION WITH HIGH ABILITY 
+
+WIN 
+WANT 
+INTNENT 
+N0W OR PROMPT
+
+
+
+
+THE MORNING ROUTINE 
+DREAMS 
+
+DECIDE 
+REMEMBER 
+EYE CLOSED 
+AFFIRMATION 
+MANAGE IT 
+SHARE
+
+## Chapter 10 : FLOW 
+
+===="When superman changes its clothes in the telephone booth and enters the flow state"==
+
+**In his groundbreaking book, Flow: The Psychology of Optimal Experience, psychologist Mihaly Csikszentmihalyi describes flow as “the state in which people are so involved in an activity that nothing else seems to matter; the experience itself is so enjoyable that people will do it even at great cost, for the sheer sake of doing it.” To Csikszentmihalyi, flow is an expression of “optimal experience.
+
+
+Flow points 
+1. Struggle 
+2. Relax 
+3. Flow 
+4. Consolidation 
+
+How to find flow 
+1. Remove distraction 
+2. time 
+3. love what you do 
+4. goals 
+5. challenge 
+
+Enemies of Flow 
+
+1. Multitasking 
+2. Stress
+3. Fear of failure 
+4. Full of conviction 
+
+
+
+# PART 3 
+
+MINDSET 
+
+
+
+Methods are the procedures or processes for accomplishing something. In this context, method is the process of learning how to learn, also called meta learning.
+
+
+
+==meta learning in five areas:==
+1. focus : Archer 
+2. study: dukandar styuding 
+3. memory: Dominic ) Brien 
+4. speed reading: Robot reading books like crazy 
+5. thinking: As a man thinketh 
+
+
+Paulo Cohelo: With blind eyes and no focus you can not achieve whatever you want to do 
+you must open your eyes with focus and aim 
+
+## FOCUS 
+
+Dandapani: Concentration 
+“Concentration is something you can learn and something you can practice to get better at”
+Dandapani was talking about concentration in terms of awareness 
+
+Breathe work 
+What are you doing for the stress 
+make time for distractions 
+
+
+##  STUDY 
+Four level of competence 
+1. Unconscious incompetence: zarawasi dont know anything 
+2. conscious incompetence: they know they have to learn KMM 
+3. conscious competence: Stone cutter and michael angelo 
+4. Unconscious competence: Life long learner and their learning is unconscious 
+5. LIMITLESS
+
+CRAMING is bad very bad idea 
+
+# Few habits for unlimiting studies 
+
+- Active recall
+- Spaced Repetition ![[Screenshot 2024-04-15 at 10.18.37 PM.png]]
+- Manage the state you are in : S of FASTER 
+- Manage the smell 
+- Music for the mind 
+- Listen with your whole brain 
+	- HEAR
+		-  HALT: Train is coming I am halting it with red signal 
+		- Empathy: try to understand form where the speaker is coming 
+		- A for anticipate: 
+		- Review 
+		- 
+	
+- Take note of taking note 
+	- TIP: tip tip barsa bani scene 
+		- T for Think
+		- Identify
+		- Prioritize
+
+
+# Chapter 13 : Memory 
+
+Only trained and untrained memory 
+
+# Chapter 14: Fast Reading 
+
+- Reading puts mind into the gear 
+- Reading makes mind ultra smart 
+- It makes mind concentrated
+- It makes more vocabulary 
+- It make us understand lot of things 
+Common Myths
+- Speed reader dont comprehend much 
+- Lot of reading dont make any sense 
+- reading dont give any understandable advantage 
+Ways
+- Use finger to read fast 
+- Its a muscle building 
+- More reading fast give more muscle to it.
+
+# Chapter 15 
+THINKING 
+
+
+There are certain thinking models specials the 5 hats modal 
+- White hat: gather information and data 
+- Yellow hat: Use positive way for any thinking 
+- Black hat: negative aspects of thinking or the process 
+- Red hat: Emotional aspect 
+- Green hat: Creativity to add on previous hats 
+- Blue hat: Combine all hats and create some output to it 
+
+Different ways of thinking 
+- Spacial : A pilot 
+- Bodily-Kinesthetics: An Athlete 
+- Musical: A band 
+- Linguistic: a guide speaking in different language 
+- Logical mathematician: Einstein 
+- Inter personal: oprah 
+- intrapersonal: JIM wolfman 
+- Naturalist 
+
+Learning type
+- visual 
+- auditory 
+- Kinesthetics
+
+Mental modals 
+- 40/70 mental modal 
+- not todo list 
+- learning from errors 
+- second order thinking 
+- taking the giant leap 
+- exponential learning or growth 
+
+A problem 
+- Identify the real problem 
+- what if solution 
+- Study 
+- Come up with the complete information and different approach 
+
+
+Teach others the Way of Limitless
+
+THE END
+
+
+[[REVIEW]]
+
+
+
+
+
+
 
 
 
