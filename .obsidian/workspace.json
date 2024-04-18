@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JIM KWICK LIMITLESS/Part 1.md",
+                "file": "ANDROID WORLD/Gradle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JIM KWICK LIMITLESS/Part 1.md",
+                "file": "ANDROID WORLD/Gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JIM KWICK LIMITLESS/Part 1.md",
+                "file": "ANDROID WORLD/Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JIM KWICK LIMITLESS/Part 1.md"
+                "file": "ANDROID WORLD/Gradle.md"
               }
             }
           }
@@ -165,8 +165,11 @@
   },
   "active": "6c49cb2aac416177",
   "lastOpenFiles": [
-    "REVIEW.md",
+    "ANDROID WORLD/Jetpack Compose Roadmap.md",
+    "ANDROID WORLD/KMM.md",
+    "ANDROID WORLD/KOTLIN ROADMAP.md",
     "JIM KWICK LIMITLESS/Part 1.md",
+    "REVIEW.md",
     "Screenshot 2024-04-15 at 10.18.37 PM.png",
     "A GOOD BRAIN DIET.md",
     "Answer to PURPOSE.md",
@@ -179,9 +182,6 @@
     "Main Roots/Competitive Programming/Abstract Data Types (ADT's).md",
     "Main Roots/Competitive Programming/Arrays/Arrays.md",
     "ANDROID WORLD/Gradle.md",
-    "ANDROID WORLD/KMM.md",
-    "ANDROID WORLD/Jetpack Compose Roadmap.md",
-    "ANDROID WORLD/KOTLIN ROADMAP.md",
     "Gradle Mastery-roadmap.jpg",
     "MathMatics/Maths for programming language.md",
     "Mathematics for creating Programming Language-roadmap.jpg",
