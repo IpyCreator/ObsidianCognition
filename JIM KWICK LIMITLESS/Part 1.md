@@ -210,7 +210,7 @@ The procrastination reason
 THE HABIT LOOP 
 CUE 
 CRAVING 
-RESONCE 
+RESONACE 
 REWARD 
 
 The Fogg factors of forming habit 
